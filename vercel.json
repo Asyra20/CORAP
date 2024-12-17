@@ -6,9 +6,6 @@
       "use": "@vercel/static"
     }
   ],
-  "env": {
-    "VITE_NYT_API_KEY": "@nyt_api_key"
-  },
   "routes": [
     {
       "src": "/(.*)",
